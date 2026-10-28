@@ -1,0 +1,11 @@
+# Kaggle files and the filtered parquet built from them
+data/
+
+# Local Python environment
+.venv/
+
+# Notebook and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
